@@ -1,4 +1,4 @@
-// import FactSheet from './ui/landing/FactSheet.svelte';
+import Cookies from './ui/landing/Cookies.svelte';
 
 
-// export { FactSheet };
+export { Cookies };

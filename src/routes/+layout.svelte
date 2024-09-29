@@ -8,9 +8,13 @@
 	});
 </script>
 
-<main class="bg-black overflow-hidden">
-	<slot />
-</main>
+<div class="dark-body">
+  <div class="page-wrapper overflow-hidden">
+    <main class="main-wrapper">
+      <slot />
+    </main>
+  </div>
+</div>
 
 <style>
 </style>
